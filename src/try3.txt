@@ -1,0 +1,57 @@
+562       Waste Management and Remediation Services           T
+
+
+
+  Industries in the Waste Management and Remediation Services subsector group establishments engaged in the
+collection, treatment, and disposal of waste materials. This includes establishments engaged in local hauling of
+waste materials; operating materials recovery facilities (i.e., those that sort recyclable materials from the trash
+stream); providing remediation services (i.e., those that provide for the cleanup of contaminated buildings, mine
+sites, soil, or ground water); and providing septic pumping and other miscellaneous waste management services.
+There are three industry groups within the subsector that separate these activities into waste collection, waste
+treatment and disposal, and remediation and other waste management.
+  Excluded from this subsector are establishments primarily engaged in collecting, treating, and disposing waste
+through sewer systems or sewage treatment facilities that are classified in Industry 22132, Sewage Treatment
+Facilities and establishments primarily engaged in long-distance hauling of waste materials that are classified in
+Industry 48423, Specialized Freight (except Used Goods) Trucking, Long-Distance. Also, there are some activities
+that appear to be related to waste management, but that are not included in this subsector. For example,
+establishments primarily engaged in providing waste management consulting services are classified in Industry
+54162, Environmental Consulting Services.
+
+5621      Waste Collection
+
+56211     Waste Collection
+
+  This industry comprises establishments primarily engaged in (1) collecting and/or hauling hazardous waste,
+nonhazardous waste, and/or recyclable materials within a local area and/or (2) operating hazardous or nonhazardous
+waste transfer stations. Hazardous waste collection establishments may be responsible for the identification,
+treatment, packaging, and labeling of waste for the purposes of transport.
+
+Cross-References.           Establishments primarily engaged in--
+
+         Long-distance trucking of waste--are classified in Industry 48423, Specialized Freight (except Used Goods)
+          Trucking, Long-Distance;
+         Operating facilities for separating and sorting recyclable materials from nonhazardous waste streams (i.e.,
+          garbage) and/or for sorting commingled recyclable materials, such as paper, plastics, and metal cans, into
+          distinct categories--are classified in Industry 56292, Materials Recovery Facilities; and
+         Collecting and/or hauling in combination with disposal of waste materials--are classified in Industry 56221,
+          Waste Treatment and Disposal.
+
+562111 Solid Waste Collection
+
+  This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) collecting
+and/or hauling nonhazardous solid waste (i.e., garbage) within a local area; (2) operating nonhazardous solid waste
+transfer stations; and (3) collecting and/or hauling mixed recyclable materials within a local area.
+
+Cross-References.           Establishments primarily engaged in--
+
+        Long-distance trucking of waste--are classified in Industry 484230, Specialized Freight (except Used
+         Goods) Trucking, Long-Distance;
+        Collecting and/or hauling in combination with disposal of nonhazardous waste materials--are classified in
+         Industry 56221, Waste Treatment and Disposal;
+        Collecting and/or hauling hazardous waste within a local area and/or operating hazardous waste transfer
+         stations--are classified in U.S. Industry 562112, Hazardous Waste Collection;
+        Collecting and removing debris, such as brush or rubble, within a local area--are classified in U.S. Industry
+         562119, Other Waste Collection; and
+        Operating facilities for separating and sorting recyclable materials from nonhazardous waste streams (i.e.,
+         garbage) and/or for sorting commingled recyclable materials, such as paper, plastics, and metal cans, into
+         distinct categories--are classified in Industry 562920, Materials Recovery Facilities.

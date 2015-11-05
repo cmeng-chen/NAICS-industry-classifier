@@ -1,0 +1,49 @@
+            Sector 11--Agriculture, Forestry, Fishing and Hunting                             T
+
+
+                                              The Sector as a Whole
+
+  The Agriculture, Forestry, Fishing and Hunting sector comprises establishments primarily engaged in growing
+crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural
+habitats.
+  The establishments in this sector are often described as farms, ranches, dairies, greenhouses, nurseries, orchards,
+or hatcheries. A farm may consist of a single tract of land or a number of separate tracts which may be held under
+different tenures. For example, one tract may be owned by the farm operator and another rented. It may be operated
+by the operator alone or with the assistance of members of the household or hired employees, or it may be operated
+by a partnership, corporation, or other type of organization. When a landowner has one or more tenants, renters,
+croppers, or managers, the land operated by each is considered a farm.
+  The sector distinguishes two basic activities: agricultural production and agricultural support activities.
+Agricultural production includes establishments performing the complete farm or ranch operation, such as farm
+owner-operators, tenant farm operators, and sharecroppers. Agricultural support activities include establishments
+that perform one or more activities associated with farm operation, such as soil preparation, planting, harvesting, and
+management, on a contract or fee basis.
+  Excluded from the Agriculture, Forestry, Fishing and Hunting sector are establishments primarily engaged in
+agricultural research and establishments primarily engaged in administering programs for regulating and conserving
+land, mineral, wildlife, and forest use. These establishments are classified in Industry 54171, Research and
+Development in the Physical, Engineering, and Life Sciences; and Industry 92412, Administration of Conservation
+Programs, respectively.
+
+111      Crop Production     T
+
+
+
+  Industries in the Crop Production subsector grow crops mainly for food and fiber. The subsector comprises
+establishments, such as farms, orchards, groves, greenhouses, and nurseries, primarily engaged in growing crops,
+plants, vines, or trees and their seeds.
+  The industries in this subsector are grouped by similarity of production activity, including biological and
+physiological characteristics and economic requirements, the length of growing season, degree of crop rotation,
+extent of input specialization, labor requirements, and capital demands. The production process is typically
+completed when the raw product or commodity grown reaches the "farm gate" for market, that is, at the point of first
+sale or price determination.
+  Establishments are classified to the Crop Production subsector when crop production (i.e., value of crops for
+market) accounts for one-half or more of the establishment's total agricultural production. Within the subsector,
+establishments are classified to a specific industry when a product or industry family of products (i.e., oilseed and
+grain farming, vegetable and melon farming, fruit and tree nut farming) account for one-half or more of the
+establishment's agricultural production. Establishments with one-half or more crop production with no one pr
+oduct
+or family of products of an industry accounting for one-half of the establishment's agricultural production are treated
+as general combination crop farming and are classified in Industry 11199, All Other Crop Farming.
+  Industries in the Crop Production subsector include establishments that own, operate, and manage and those that
+operate and manage. Those that manage only are classified in Subsector 115, Support Activities for Agriculture and
+Forestry. Establishments that raise aquatic plants in controlled or selected aquatic environments are classified in
+Subsector 112, Animal Production and Aquaculture.
